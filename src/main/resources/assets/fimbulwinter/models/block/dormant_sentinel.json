@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "fimbulwinter:block/dormant_sentinel_top",
+    "top": "fimbulwinter:block/dormant_sentinel_top",
+    "side": "fimbulwinter:block/dormant_sentinel"
+  }
+}

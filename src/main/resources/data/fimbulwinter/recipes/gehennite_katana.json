@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "G",
+    "G",
+    "O"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "fimbulwinter:gehennite_ingot"
+
+    }
+  },
+  "result": {
+    "item": "fimbulwinter:gehennite_katana",
+    "count": 1
+  }
+}

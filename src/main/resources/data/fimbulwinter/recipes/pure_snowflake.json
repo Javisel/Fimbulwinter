@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "BIB",
+    "IDI",
+    "BIB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:snowball"
+    },
+    "I": {
+      "item": "minecraft:ice"
+
+    },
+    "D": {
+      "item" : "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "fimbulwinter:pure_snowflake",
+    "count": 1
+  }
+}

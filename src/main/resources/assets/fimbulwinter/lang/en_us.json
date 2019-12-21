@@ -1,0 +1,42 @@
+{
+  "block.fimbulwinter.ruby_block": "Block of Rubies",
+  "block.fimbulwinter.snow_bricks": "Snow Bricks",
+  "block.fimbulwinter.snow_brick_stairs": "Snow Brick Stairs",
+  "block.fimbulwinter.snow_brick_slab": "Snow Brick Slab",
+
+  "block.fimbulwinter.soft_snow": "Soft Snow",
+  "block.fimbulwinter.freezing_snow": "Freezing Snow",
+  "block.fimbulwinter.winterfall_portal": "Winterfall Portal",
+  "fimbulwinter.winterfall": "Winterfall",
+
+  "block.fimbulwinter.dormant_sentinel": "Dormant Sentinel",
+"tooltip.fimbulwinter.winterfalliceshard" : "A cold fragment from a distant world...",
+  "tooltip.fimbulwinter.puresnowflake" : "The Key to the dormant lock",
+
+  "entity.fimbulwinter.frozen_zombie": "Frozen Zombie",
+  "entity.fimbulwinter.frozen_spider": "Snow Spider",
+
+  "entity.fimbulwinter.frozen_creeper": "Cold Creeper",
+  "entity.fimbulwinter.ice_crystal": "Ice Crystal",
+
+  "entity.fimbulwinter.sentinel": "Sentinel",
+  "item.fimbulwinter.frozen_zombie_egg": "Frozen Zombie Spawn Egg",
+  "item.fimbulwinter.frozen_creeper_egg": "Cold Creeper Spawn Egg",
+
+  "item.fimbulwinter.frozen_spider_egg": "Snow Spider Spawn Egg",
+  "item.fimbulwinter.gehennite_katana": "Gehennite Katana",
+  "item.fimbulwinter.gehennite_hammer": "Gehennite Hammer",
+
+  "item.fimbulwinter.gehennite_ingot": "Gehennite Ingot",
+  "item.fimbulwinter.pure_snowflake": "Pure Snowflake",
+  "itemGroup.fimbulwinter": "Fimbulwinter",
+  "item.fimbulwinter.winterfall_ice_shard": "Winterfall Ice Shard",
+
+  "effect.fimbulwinter.phoenix_flame": "Phoenix Flame",
+  "effect.fimbulwinter.frostbite": "Frostbite",
+
+  "block.fimbulwinter.frozen_cobweb": "Frozen Cobweb",
+  "death.attack.cold_damage.player" : "%1$s Succumbed to the Frost",
+  "death.attack.cold_damage" : "%1$s Succumbed to the Frost"
+
+}

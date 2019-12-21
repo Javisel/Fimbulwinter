@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "BIB",
+    "IDI",
+    "BIB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+
+    },
+    "D": {
+      "item" : "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "fimbulwinter:gehennite_ingot",
+    "count": 1
+  }
+}

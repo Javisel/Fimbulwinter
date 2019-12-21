@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "   ",
+    "SSS",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "fimbulwinter:snow_bricks"
+    }
+  },
+  "result": {
+    "item": "fimbulwinter:snow_brick_slab",
+    "count": 6
+  }
+}

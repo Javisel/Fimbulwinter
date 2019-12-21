@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "fimbulwinter:snow_bricks"
+  },
+  "result": "fimbulwinter:snow_brick_slab",
+  "count": 2
+}

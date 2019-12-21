@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "fimbulwinter:block/snow_bricks",
+    "top": "fimbulwinter:block/snow_bricks",
+    "side": "fimbulwinter:block/snow_bricks"
+  }
+}

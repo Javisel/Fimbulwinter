@@ -1,0 +1,26 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "fimbulwinter:item/gehennite_katana_0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "fimbulwinter:charge": 1
+      },
+      "model": "fimbulwinter:item/gehennite_katana_1"
+    },
+    {
+      "predicate": {
+        "fimbulwinter:charge": 2
+      },
+      "model": "fimbulwinter:item/gehennite_katana_2"
+    },
+    {
+      "predicate": {
+        "fimbulwinter:charge": 3
+      },
+      "model": "fimbulwinter:item/gehennite_katana_3"
+    }
+  ]
+}
