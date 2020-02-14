@@ -1,0 +1,42 @@
+{
+  "block.fimbulwinter.ruby_block": "Bloque de rubí",
+  "block.fimbulwinter.snow_bricks": "Ladrillos de nieve",
+  "block.fimbulwinter.snow_brick_stairs": "Escaleras de ladrillos de nieve",
+  "block.fimbulwinter.snow_brick_slab": "Losa de ladrillos de nieve",
+
+  "block.fimbulwinter.soft_snow": "Nieve suave",
+  "block.fimbulwinter.freezing_snow": "Nieve helada",
+  "block.fimbulwinter.winterfall_portal": "Portal de Invermundo",
+  "fimbulwinter.winterfall": "Invermundo",
+
+  "block.fimbulwinter.dormant_sentinel": "Centinela durmiente",
+"tooltip.fimbulwinter.winterfalliceshard" : "Un fragmento helado de un mundo lejano...",
+  "tooltip.fimbulwinter.puresnowflake" : "La llave de la cerradura durmiente",
+
+  "entity.fimbulwinter.frozen_zombie": "Zombi helado",
+  "entity.fimbulwinter.frozen_spider": "Araña de nieve",
+
+  "entity.fimbulwinter.frozen_creeper": "Creeper helado",
+  "entity.fimbulwinter.ice_crystal": "Cristal de hielo",
+
+  "entity.fimbulwinter.sentinel": "Centinela",
+  "item.fimbulwinter.frozen_zombie_egg": "Huevo generador de zombi helado",
+  "item.fimbulwinter.frozen_creeper_egg": "Huevo generador de creeper helado",
+
+  "item.fimbulwinter.frozen_spider_egg": "Huevo generador de araña de nieve",
+  "item.fimbulwinter.gehennite_katana": "Katana de gehlenita",
+  "item.fimbulwinter.gehennite_hammer": "Martillo de gehlenita",
+
+  "item.fimbulwinter.gehennite_ingot": "Lingote de gehlenita",
+  "item.fimbulwinter.pure_snowflake": "Copo de nieve puro",
+  "itemGroup.fimbulwinter": "Fimbulwinter",
+  "item.fimbulwinter.winterfall_ice_shard": "Esquirla de hielo de Invermundo",
+
+  "effect.fimbulwinter.phoenix_flame": "Llama de fénix",
+  "effect.fimbulwinter.frostbite": "Congelación",
+
+  "block.fimbulwinter.frozen_cobweb": "Telaraña congelada",
+  "death.attack.cold_damage.player" : "%1$s ha sucumbido a la helada",
+  "death.attack.cold_damage" : "%1$s ha sucumbido a la helada"
+
+}
